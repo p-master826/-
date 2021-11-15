@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<head>
+    <title>Table</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: gold;
+}
+th, td {
+    border-color: red;
+}
+</style>
+</head>
+<body style="background-image:URL(https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.15752-9/254687744_731748461079077_2215436769466024302_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeFem4F3bOJ3l-vDe8XNINb6OtF87_6fB6k60Xzv_p8HqRldE0BDbA00kk9HjWgQUBOc3LZnxIkW0lU7SRAsjEj5&_nc_ohc=CYu8btfkD8wAX_ejq89&_nc_ht=scontent.fbkk5-4.fna&oh=1b4016d282c231930e49d7a82182cc94&oe=61B7FA54)">
+<h2>bncc เก่งพอตัว</h2>
+
+<p>ก็มาดิค๊าบบบ</p>
+
+<table >
+  <tr>
+    <th>เลขที่</th>
+    <th>ชื่อ-นามสกุล</th> 
+    <th>รหัสประจำตัว</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>สุเมธ อัครวงษ์</td>
+    <td>64209010001</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>สิรินยา มีคะนุช</td>
+    <td>64209010002</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>อนงค์ภัสสร มูสิกะปาละ</td>
+    <td>64209010003</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>ภัทร การะเกตุ</td>
+    <td>64209010004</td>
+   </tr>
+    <tr>
+    <td>5</td>
+    <td>สถาพร สุขสวัสดิ์</td>
+    <td>64209010005</td>
+    </tr>
+    <tr>
+    <td>6</td>
+    <td>ชยกร ลูวิจิตรบรรจง</td>
+    <td>64209010006</td>
+    </tr>
+    <tr>
+    <td>7</td>
+    <td>จิณห์วรา เสริฐสระน้อย</td>
+    <td>64209010007</td>
+    </tr>
+    <tr>
+    <td>8</td>
+    <td>ปัณฑิตา เทียนไสย</td>
+    <td>64209010008</td>
+    </tr>
+    <tr>
+    <td>9</td>
+    <td>ปัณฑิตา เทียนไสย</td>
+    <td>64209010008</td>
+    
+
+
+</table>
+
+</body>
+</html>
+
